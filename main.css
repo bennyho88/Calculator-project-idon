@@ -38,6 +38,7 @@ main {
 #screen {
     width: 50vw;
     height: 10vh;
+    font-size: 2rem;
 }
 
 .calculator-buttons {
